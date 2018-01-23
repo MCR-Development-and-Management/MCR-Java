@@ -1,5 +1,3 @@
-# Hey, you found GitHub! Good Job!
+# Hey, you found Mineplex Core Remake, Good on you
 
-## This is just source code :3
-
-## Check the wiki for usefulness!
+# - MCR Team
